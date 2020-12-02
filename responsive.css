@@ -1,0 +1,341 @@
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 1362px) {
+.column {width:750px}
+
+
+
+
+.single_contact {
+    
+    width: 27%;
+}
+
+.header_social ul li a {
+    padding: 12px 3px;
+}
+
+.menu ul li a {
+    
+    font-size: 11pt;
+    padding: 15px 5px;
+    margin-top: 19px;
+}
+.search {
+    padding-top: 37px;
+    font-size: 13px;
+}
+.banner_content h2 {
+    
+    font-size: 50px;
+    margin-bottom: 18px;
+}
+.banner_content p {
+    margin-bottom: 22px;
+    font-size: 19px;
+}
+.banner_content a {
+
+    font-size: 16px;
+    padding: 11px 21px;
+
+}
+
+.service_title h2 {
+    font-size: 35px;
+    margin-bottom: 19px;
+}
+.service_title p {
+    font-size: 19px;
+    padding: 0 0px;
+    margin-bottom: 34px;
+}
+
+.service_icon {
+    width: 100%;
+    padding-top: 0px;
+    text-align: center;
+}
+.service_content {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+.service_content h2 {
+    font-size: 20px;
+    margin-bottom: 18px;
+}
+.service_area {
+    padding: 50px 0;
+}
+.latest_work_area {
+    padding-bottom: 40px;
+}
+.latest_work_title {
+    padding-top: 38px;
+}
+.latest_work_title h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.latest_work_title p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.card-body h2 {
+    font-size: 16px;
+}
+.card-body p {
+    font-size: 12pt;
+}
+.client_slider {
+    margin-top: 35px;
+}
+.owl-dots {
+    margin-top: 21px;
+}
+section.want_work_area h2 {
+    margin-top: 52px;
+    font-size: 38px;
+    margin-bottom: 15px;
+}
+section.want_work_area p {
+    font-size: 20px;
+    line-height: 1.3;
+    padding: 0 0;
+    margin-bottom: 16px;
+}
+section.want_work_area a {
+    font-size: 14px;
+    padding: 7px 14px;
+    margin-bottom: 30px;
+}
+
+.single_option {
+    margin-top: 39px;
+   
+}
+.single_option h2 {
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+img.myimg {
+    width: 33%;
+    margin-bottom: 7px;
+}
+.single_option p {
+    font-size: 12px;
+}
+.myspan {
+    font-size: 13px;
+    color: #9eacba;
+}
+.single_option img{
+	width: 100%;
+}
+.single_option_contact i {
+    padding: 12px 6px;
+    font-size: 12px;
+}
+.single_option_contact p {
+    margin: 0;
+    padding: 0;
+}
+p.mail {
+    padding: 8px;
+}
+p.fn {
+	padding: 8px 24px
+}
+i.fas.fa-mobile-alt.mbl {
+    margin-left: -24px;
+}
+
+}
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+
+.column {width:300px}
+.single_contact {
+   
+    width: 50%;
+}
+
+.header_social {
+    text-align: center;
+}
+.logo img {
+    width: auto;
+    margin-top: 15px;
+}
+.logo {
+    text-align: center;
+}
+.menu {
+    display: none;
+}
+.search {
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+.banner_area {
+    
+    padding: 40px 0;
+    
+}
+.banner_content h2 {
+   
+    font-size: 31px;
+    
+    margin-bottom: 16px;
+}
+.banner_content p {
+  
+    margin-bottom: 21px;
+    font-size: 19px;
+   
+}
+.banner_content a {
+   
+    font-size: 15px;
+    padding: 7px 10px;
+   
+}
+.service_area {
+    padding: 40px 0;
+}
+.service_title h2 {
+    
+    font-size: 31px;
+   
+    margin-bottom: 17px;
+}
+
+.service_title p {
+
+    font-size: 16px;
+    margin-bottom: 27px;
+}
+.service_icon {
+    
+    width: 100%;
+   
+    text-align: center;
+}
+.service_content h2 {
+   
+    font-size: 22px;
+
+    margin-bottom: 10px;
+}
+.service_content {
+    
+    width: 100%;
+    text-align: center;
+}
+
+.service_content p {
+   
+    font-size: 14px;
+   
+}
+.latest_work_title {
+    padding-top: 40px;
+
+}
+
+
+.latest_work_title h2 {
+    
+    font-size: 31px;
+   
+    margin-bottom: 17px;
+}
+
+.latest_work_title p {
+   
+    font-size: 18px;
+   
+    margin-bottom: 25px;
+}
+.card img {
+    width: 100%;
+}
+.card-body h2 {
+    
+    font-size: 17px;
+    
+}
+.card-body p {
+    
+    font-size: 12pt;
+}
+.latest_work_area {
+    
+    padding-bottom: 40px;
+}
+section.want_work_area h2 {
+    margin-top: 40px;
+    font-size: 31px;
+    
+    margin-bottom: 20px;
+}
+section.want_work_area p {
+    font-size: 16px;
+    margin-bottom: 22px;
+    padding: 0 0;
+}
+
+section.want_work_area a {
+    
+    font-size: 12px;
+    padding: 7px 13px;
+    margin-bottom: 30px;
+}
+.single_option {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.footer_bottom_area {
+    
+    text-align: center;
+}
+
+.slicknav_menu {
+    font-size: 13px;
+}
+.slicknav_menu .slicknav_menutxt {
+    
+    display: none;
+}
+.slicknav_menu {
+    
+    display: block;
+}
+button.btn.btn-success {
+    
+    top: 147px;
+    left: 288px;
+    
+    
+}
+}
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.column {width:450px}
+
+}
+
+
